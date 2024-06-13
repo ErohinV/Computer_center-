@@ -1,0 +1,47 @@
+.profile-section {
+    margin-bottom: 30px;
+}
+
+.section-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+
+.services-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(auto, 1fr));
+    gap: 20px;
+}
+
+.service {
+    border: 1px solid #ccc; /* Задаємо тонку сірою рамку */
+    padding: 20px; /* Додаємо відступ всередині розділу */
+    margin-bottom: -2px; /* Додаємо відступ між розділами */
+}
+
+.service-title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #444;
+    margin-bottom: 10px;
+}
+
+.service-description {
+    font-size: 14px;
+    color: #666;
+}
+
+.service-icon {
+    margin-right: 20px; /* Відступ між іконкою та текстом */
+}
+
+.icon {
+    width: 40px; /* Розмір іконки */
+    height: 40px; /* Розмір іконки */
+}
+
+.service:hover {
+    transform: scale(0.95); /* Збільшення розміру елемента при наведенні */
+    transition: transform 0.3s ease; /* Плавна анімація збільшення */
+}

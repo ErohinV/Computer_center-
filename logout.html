@@ -1,0 +1,33 @@
+<?php
+session_start(); // Починаємо сесію
+session_unset(); // Очищуємо всі дані сесії
+session_destroy(); // Знищуємо сесію
+// Видалення користувача з бази даних (замість цього коду використовуйте ваш власний SQL-запит для видалення користувача)
+$servername = "localhost";
+$username = "root";
+$password = "";
+$dbname = "Computer_center";
+
+// Створення з'єднання
+$conn = new mysqli($servername, $username, $password, $dbname);
+
+// Перевірка з'єднання
+if ($conn->connect_error) {
+    die("Помилка підключення до бази даних: " . $conn->connect_error);
+}
+
+// Видалення користувача з бази даних
+$sql = "DELETE FROM users";
+if ($conn->query($sql) === TRUE) {
+    echo "Користувача успішно видалено з бази даних";
+} else {
+    echo "Помилка: " . $sql . "<br>" . $conn->error;
+}
+
+// Закриття з'єднання
+$conn->close();
+
+// Перенаправлення на сторінку входу
+header("Location: index.php");
+exit();
+?>

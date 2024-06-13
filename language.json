@@ -1,0 +1,29 @@
+
+{
+  "en": {
+      "nav_en": "EN",
+      "nav_ua": "UA",
+      "button_text": "WRITE TO US",
+      "header_title": "WE KEEP YOU IN TOUCH WITH A SERVICE YOU CAN TRUST",
+      "nav_links": {
+          "Our services": "Our services",
+          "About": "About",
+          "Contacts": "Contacts",
+          "Catalog": "Catalog",
+          "Reviews": "Reviews"
+      }
+  },
+  "ua": {
+      "nav_en": "EN",
+      "nav_ua": "UA",
+      "button_text": "НАПИШІТЬ НАМ",
+      "header_title": "МИ ЗАЛИШАЄМО ВАС В СПІЛЬНОСТІ З ПОСЛУГОЮ, НА ЯКУ ВИ МОЖЕТЕ ПОКЛАСТИСЯ",
+      "nav_links": {
+          "Our services": "Наші послуги",
+          "About": "Про нас",
+          "Contacts": "Контакти",
+          "Catalog": "Каталог",
+          "Reviews": "Відгуки"
+      }
+  }
+}

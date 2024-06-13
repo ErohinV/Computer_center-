@@ -1,0 +1,110 @@
+{
+    "en": {
+        "header_title": "WE KEEP YOU IN TOUCH WITH A SERVICE YOU CAN TRUST",
+        "button_text": "WRITE TO US",
+        "nav_links": {
+            "Our services": "Our services",
+            "About": "About",
+            "Contacts": "Contacts",
+            "Catalog": "Catalog",
+            "Reviews": "Reviews"
+        },
+        "main_sections": {
+            "main_call": {
+                "title": "CALL US NOW FOR THE PHONE:",
+                "phone": "+380636745386",
+                "description": "Feel free to call us"
+            },
+            "main_calendar": {
+                "title": "ONLINE CALENDAR",
+                "link": "Our Working Days"
+            },
+            "main_geo": {
+                "title": "OUR SERVICE CENTER",
+                "address": "Kolomyia st. I. Mazepa 258-A"
+            }
+        },
+        "offer": {
+            "diagnostic": "DIAGNOSTIC",
+            "cleaning": "CLEANING",
+            "replacement": "REPLACEMENT"
+        },
+        "discreption": {
+            "title": "WE UNDERSTAND HOW IMPORTANT IT IS TO FIND THE RIGHT COMPUTER SERVICE",
+            "text": "Computer repairs and maintenance can be expensive and no one wants to have to pay to repair damage caused by shoddy repair service. When you bring your computer into our computer shop, you won’t have to worry because our staff is comprised of special certified technicians who are committed to making sure you have a safe dependable computer.",
+            "link": "MORE ABOUT US"
+        },
+        "number": {
+            "title": "FAST & EASY",
+            "subtitle": "our work process",
+            "steps": {
+                "1": "REQUEST YOUR QUOTE",
+                "2": "BRING YOUR LAPTOP",
+                "3": "GET IT REPAIRED"
+            }
+        },
+        "feedback": {
+            "title": "Feedback",
+            "last_name": "Last name",
+            "first_name": "First name",
+            "email": "Email",
+            "phone": "Phone",
+            "message": "Message",
+            "button_text": "Send"
+        }
+    },
+    "ua": {
+        "header_title": "МИ ЗАЛИШАЄМО ВАС В СПІЛЬНОСТІ З ПОСЛУГОЮ, НА ЯКУ ВИ МОЖЕТЕ ПОКЛАСТИСЯ",
+        "button_text": "НАПИШІТЬ НАМ",
+        "nav_links": {
+            "Our services": "Наші послуги",
+            "About": "Про нас",
+            "Contacts": "Контакти",
+            "Catalog": "Каталог",
+            "Reviews": "Відгуки"
+        },
+        "main_sections": {
+            "main_call": {
+                "title": "ПОТЕЛЕФОНУЙТЕ НАМ ЗА ТЕЛЕФОНОМ:",
+                "phone": "+380636745386",
+                "description": "Не соромтеся зателефонувати нам"
+            },
+            "main_calendar": {
+                "title": "ОНЛАЙН-КАЛЕНДАР",
+                "link": "Наші робочі дні"
+            },
+            "main_geo": {
+                "title": "НАШ ЦЕНТР ПОСЛУГ",
+                "address": "Коломия вул. І. Мазепи 258-А"
+            }
+        },
+        "offer": {
+            "diagnostic": "ДІАГНОСТИКА",
+            "cleaning": "ЧИСТКА",
+            "replacement": "ЗАМІНА"
+        },
+        "discreption": {
+            "title": "МИ РОЗУМІЄМО, ЯК ВАЖЛИВО ЗНАЙТИ ПРАВИЛЬНУ КОМП'ЮТЕРНУ ПОСЛУГУ",
+            "text": "Ремонт та обслуговування комп'ютерів можуть бути дорогими, і ніхто не хоче платити за ремонт пошкоджень, спричинених поганим сервісом. Коли ви привозите свій комп'ютер до нашого магазину, вам не потрібно хвилюватися, оскільки наш персонал складається з спеціалізованих сертифікованих техніків, які зобов'язані забезпечити вам безпечний та надійний комп'ютер.",
+            "link": "ДЕТАЛЬНІШЕ ПРО НАС"
+        },
+        "number": {
+            "title": "ШВИДКО & ЛЕГКО",
+            "subtitle": "наш процес роботи",
+            "steps": {
+                "1": "ЗАМОВТЕ ВАШЕ ПРОПОЗИЦІЮ",
+                "2": "ПРИНЕСІТЬ СВІЙ НОУТБУК",
+                "3": "ВІДРЕМОНТУЙТЕ ЙОГО"
+            }
+        },
+        "feedback": {
+            "title": "Зворотній зв'язок",
+            "last_name": "Прізвище",
+            "first_name": "Ім'я",
+            "email": "Електронна пошта",
+            "phone": "Телефон",
+            "message": "Повідомлення",
+            "button_text": "Надіслати"
+        }
+    }
+}

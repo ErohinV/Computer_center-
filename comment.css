@@ -1,0 +1,48 @@
+.dialog {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    z-index: 9999;
+}
+
+.dialog form {
+    margin-bottom: 20px;
+}
+
+.dialog label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.dialog input[type="text"],
+.dialog input[type="email"],
+.dialog textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.dialog input[type="submit"],
+.dialog button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.dialog input[type="submit"]:hover,
+.dialog button:hover {
+    background-color: #0056b3;
+}
